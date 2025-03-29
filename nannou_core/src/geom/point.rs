@@ -1,7 +1,7 @@
 //! Implementation of the **Point** types.
 //!
 //! Currently, **Point** is simply a type alias for **Vector**. While this makes it easier for new
-//! uses to understand and switch between the two, it also conflates the the two mathematical
+//! uses to understand and switch between the two, it also conflates the two mathematical
 //! concepts which are quite distinct. It is possible that in the future, we will switch to using
 //! distinct types. For now, we are attempting to monitor usage and feedback to determine whether
 //! or not this change is worth it.
